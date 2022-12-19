@@ -31,7 +31,7 @@ func main() {
 	check(err)
 	data := string(dat)
 
-	// part1(data)
+	part1(data)
 
-	part2(data)
+	// part2(data)
 }
